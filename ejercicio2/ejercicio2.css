@@ -1,0 +1,13 @@
+div{
+   font-size: 36px;
+   color: var(--fondo, yellow);
+   background-color: currentColor;
+}
+
+.texto2{
+   color: var(--fondo, navy);
+}
+
+.texto3{
+   color: var(--fondo, red);
+}

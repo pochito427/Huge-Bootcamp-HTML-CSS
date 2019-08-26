@@ -1,0 +1,12 @@
+div{
+   height: 580px;
+   width: 1400px;
+   background-image: url(0-bogota-hero-banner-mountains.jpg);
+}
+
+h1{
+   color: white;
+   background-color: black;
+   display: inline-block;
+   mix-blend-mode: multiply;
+}
